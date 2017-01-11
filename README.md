@@ -1,6 +1,6 @@
 # testrpc-bundle
 
-Testrpc  using the browserified node dependency bundle to simplify installation (avoid compilations). WIP
+A testrpc server using broswerified bundled dependencies to simplify installation. WIP
 
 ## Usage
 
