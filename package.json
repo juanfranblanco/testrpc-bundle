@@ -1,0 +1,29 @@
+{
+  "name": "testrpc-bundle",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "Juan Blanco",
+    "email": "juanfranblanco@hotmail.com",
+    "url": ""
+  },
+   "dependencies": {
+    "yargs": "~3.29.0"
+  },
+  "bin":{
+    "testrpcb": "./bin/testrpcb"
+  },
+  "scripts": {
+    "start": "node ./bin/testrpcb"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/ethereum-testrpc.js",
+  "keywords": [
+    ""
+  ],
+  "repository": "https://github.com/juanfranblanco/testrpc-bundle.git",
+  "license": "MIT"
+}
