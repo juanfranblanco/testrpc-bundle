@@ -10,3 +10,6 @@ cd testrpc-bundle
 npm install
 npm start
 ```
+
+##Note
+Solc is not included
