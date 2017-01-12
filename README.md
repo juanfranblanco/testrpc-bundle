@@ -7,7 +7,7 @@ A better solution is to used a full portable testrpc server as per here : https:
 ##Usage
 Download the testrpc-portable.js
 ```
-Node testrpc-portable.js
+node testrpc-portable.js
 ```
 
 ## OBSOLETE
